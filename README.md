@@ -1,16 +1,9 @@
-# task_management_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Task Management App*
+A simple Flutter app to manage tasks using MVC architecture, SharedPreferences for persistence, and a floating action button to add tasks.
+📌 Features
+✅ Splash SCreen
+✅ Add tasks with a title & subtitle
+✅ Mark tasks as completed (toggle check) 
+✅ Delete tasks
+✅ Persistent data storage using SharedPreferences 
+✅ AppBar & floating action button (FAB) for adding tasks
